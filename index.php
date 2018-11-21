@@ -2,6 +2,8 @@
 <html>
 <head>
     <script>
+	
+	
 
         var sun = new Image();
         var moon = new Image();
